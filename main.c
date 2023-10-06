@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Gamberge");
+    printf("Bienvenue en GIT!");
     return 0;
 }
